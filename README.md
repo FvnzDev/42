@@ -15,7 +15,7 @@ Some tasks are listed in the Issues session above, but you can also:
 
 ---
 
-### Other 42 related projects
+### Credits : Other 42 related projects
 
 - https://github.com/fwuensche/42-config
 - https://github.com/fwuensche/42-test-monial
