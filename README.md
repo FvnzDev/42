@@ -20,3 +20,5 @@ Some tasks are listed in the Issues session above, but you can also:
 - https://github.com/fwuensche/42-config
 - https://github.com/fwuensche/42-test-monial
 - https://github.com/fwuensche/42-piscine-c
+
+<a href="https://github.com/Ashibu0001/42"><img src="https://gh-card.dev/repos/Ashibu0001/42.png"></a>
